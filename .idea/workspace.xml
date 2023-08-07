@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cdc63c7-7164-485d-8c2a-f54eafc7067b" name="Changes" comment="v1.0.2">
+    <list default="true" id="1cdc63c7-7164-485d-8c2a-f54eafc7067b" name="Changes" comment="v1.0.3 - contact-form-modal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
       <workItem from="1690732913270" duration="974000" />
       <workItem from="1690734620207" duration="600000" />
       <workItem from="1691092059317" duration="1055000" />
-      <workItem from="1691097470296" duration="342000" />
+      <workItem from="1691097470296" duration="2309000" />
     </task>
     <task id="LOCAL-00001" summary="v1.0.2">
       <created>1690733004182</created>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691096807747</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="v1.0.3 - contact-form-modal">
+      <created>1691098747100</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691098747100</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.0.2" />
+    <MESSAGE value="v1.0.3 - contact-form-modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.3 - contact-form-modal" />
   </component>
 </project>
