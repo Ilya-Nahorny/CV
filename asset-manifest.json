@@ -1,12 +1,15 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.51d4466c.css",
-    "main.js": "/cv/static/js/main.1c906e6e.js",
+    "main.js": "/cv/static/js/main.1b94e13f.js",
     "static/js/787.3495f74f.chunk.js": "/cv/static/js/787.3495f74f.chunk.js",
     "static/media/vid.mp4": "/cv/static/media/vid.f4b8080d36a7d9240e2a.mp4",
     "static/media/aboutad.webm": "/cv/static/media/aboutad.af165fae344af9ce2b7c.webm",
+    "static/media/giardDesign.webm": "/cv/static/media/giardDesign.1d328938170b4502bad2.webm",
+    "static/media/equilibra.webm": "/cv/static/media/equilibra.4136f5f753407be8eca5.webm",
     "static/media/JS.jpg": "/cv/static/media/JS.4a3396ab8c5785f040e3.jpg",
     "static/media/html_css_js.jpg": "/cv/static/media/html_css_js.b907dbaab186e727a9a6.jpg",
+    "static/media/breaking-com-pl.webm": "/cv/static/media/breaking-com-pl.ab3eca67680d607aa789.webm",
     "static/media/weather-app.mp4": "/cv/static/media/weather-app.cd52ffb38d33e038fbc8.mp4",
     "static/media/layout.mp4": "/cv/static/media/layout.a00e8e20cd741498bcfe.mp4",
     "static/media/belcop.mp4": "/cv/static/media/belcop.5905a4c61fb09719bc5b.mp4",
@@ -27,11 +30,11 @@
     "static/media/arrow-left.svg": "/cv/static/media/arrow-left.4fbf84e4ee72ce1471f9.svg",
     "static/media/arrow-right.svg": "/cv/static/media/arrow-right.e7b15c44cf25938a4bbb.svg",
     "main.51d4466c.css.map": "/cv/static/css/main.51d4466c.css.map",
-    "main.1c906e6e.js.map": "/cv/static/js/main.1c906e6e.js.map",
+    "main.1b94e13f.js.map": "/cv/static/js/main.1b94e13f.js.map",
     "787.3495f74f.chunk.js.map": "/cv/static/js/787.3495f74f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51d4466c.css",
-    "static/js/main.1c906e6e.js"
+    "static/js/main.1b94e13f.js"
   ]
 }
